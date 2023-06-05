@@ -1,6 +1,12 @@
 # Awesome-Projects
 Dan Carroll's list of awesome projects on GitHub. Stuff that I find are awesome and use myself.
 
+## GitHub Tutorials
+
+- [First Contributions](https://github.com/firstcontributions/first-contributions)
+
+   > Help beginners to contribute to open source projects. This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
+
 ## Android Cornucopia
 
 - [Scripting Layer for Android (SL4A)](https://github.com/damonkohler/sl4a)
