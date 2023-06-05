@@ -28,6 +28,12 @@ Dan Carroll's list of awesome projects on GitHub. Stuff that I find are awesome 
    > The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
    > [getbootstrap.com](https://getbootstrap.com/)
 
+## Programming: Python
+
+- [python/cpython](https://github.com/python/cpython)
+
+   > The [Python](https://www.python.org/) programming language.
+
 ## Web Application Software
 
 - [Simple Machines Forum (SMF)](https://github.com/SimpleMachines/SMF)
