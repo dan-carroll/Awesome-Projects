@@ -19,6 +19,35 @@ Dan Carroll's list of awesome projects on GitHub. Stuff that I find are awesome 
 
 ## Frameworks: Full-Stack
 
+- [web2py/py4web](https://github.com/web2py/py4web)
+
+   > [PY4WEB](https://py4web.com/) is a web framework for rapid development of efficient database driven web applications. It is an evolution of the popular web2py framework but much faster and slicker.  
+   > Official documentation site: [https://py4web.com/_documentation](https://py4web.com/_documentation)
+
+- [web2py/web2py](https://github.com/web2py/web2py)
+
+   > [web2py](http://www.web2py.com/): Free and open source full-stack enterprise framework for agile development of secure database-driven web-based applications, written and programmable in Python. One of my all-time favorites. Great for learning to create an enterprise level web app.
+
+- [web2py/pydal](https://github.com/web2py/pydal)
+
+   > A pure Python Database Abstraction Layer.
+
+- [The official web2py book](https://github.com/web2py/web2py-book)
+
+   > [Read the book online](http://web2py.com/books).
+
+- [web2py-starter](https://github.com/mjbeller/web2py-starter)
+
+   > An alternative to the standard web2py Welcome app based on the AdminLTE open source theme and template.
+
+- [Web2py Appliances](https://github.com/mdipierro/web2py-appliances)
+
+   > Set of Example Web2py Appliances.
+
+- [web2py Vue Scaffold App](https://github.com/web2py/scaffold)
+
+   > This app provides an example of a scaffold app.
+
 ## Frameworks: Micro
 
 ## Frameworks: WebDev
