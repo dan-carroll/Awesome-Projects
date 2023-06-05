@@ -27,3 +27,10 @@ Dan Carroll's list of awesome projects on GitHub. Stuff that I find are awesome 
 
    > The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
    > [getbootstrap.com](https://getbootstrap.com/)
+
+## Web Application Software
+
+- [Simple Machines Forum (SMF)](https://github.com/SimpleMachines/SMF)
+
+   > [Simple Machines Forum](https://www.simplemachines.org/) — SMF in short — is free and open-source community forum software, delivering professional grade features in a package that allows you to set up your own online community within minutes!
+
