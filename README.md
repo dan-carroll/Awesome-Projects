@@ -75,6 +75,20 @@ Dan Carroll's list of awesome projects on GitHub. Stuff that I find are awesome,
 
    > The [Python](https://www.python.org/) programming language.
 
+## Useful Utilities
+
+- [bat2exe](https://github.com/islamadel/bat2exe)
+
+   > Convert any Batch File easily to an Executable: This Tool will help you to convert Batch Files [.bat] or [.cmd] including any other Files in a certain Folder to an executable [.exe] file package.
+
+- [BatToExe](https://github.com/dan-carroll/BatToExe)
+
+   > BatToExe is a no frills Windows Forms application written in C# that converts batch (.bat) files to executables (.exe). The main functionality centers around runtime compilation in C#. It is open source under a Microsoft Public License.
+
+- [BatToExePortable](https://github.com/dan-carroll/BatToExePortable)
+
+   > BatToExe packed in the PortableApps format (.paf). [BatToExe 0.5.5 Portable Development Test 2](https://github.com/dan-carroll/BatToExePortable/releases/tag/PAF_installer)
+
 ## Web Application Software
 
 - [Simple Machines Forum (SMF)](https://github.com/SimpleMachines/SMF)
