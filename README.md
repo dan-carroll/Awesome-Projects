@@ -23,6 +23,12 @@ Dan Carroll's list of awesome projects on GitHub. Stuff that I find are awesome 
 
    > Turn your Python application into an Android APK. python-for-android is a packaging tool for Python apps on Android. You can create your own Python distribution including the modules and dependencies you want, and bundle it in an APK or AAB along with your own code.
 
+## Books: On GitHub
+
+- [Single Page Apps in Depth](https://github.com/mixu/singlepageappbook)
+
+   > Content and site generator for Single page apps in depth (my book on single page applications).
+
 ## Frameworks: Full-Stack
 
 - [web2py/py4web](https://github.com/web2py/py4web)
