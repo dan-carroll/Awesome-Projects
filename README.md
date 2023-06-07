@@ -1,6 +1,20 @@
 # Awesome-Projects
 Dan Carroll's list of awesome projects on GitHub. Stuff that I find are awesome, and possibly use myself.
 
+## GitHub Code-Server
+
+- [code-server](https://github.com/coder/code-server)
+
+   > VS Code in the browser.
+
+- [awesome-code-server](https://github.com/coder/awesome-code-server)
+
+   > Projects, resources, and tutorials that take code-server to the next level. Looking to extend code-server? Some of these may help! Feel free to propose new articles, projects or tools!
+
+- [coder/blogs](https://github.com/coder/blogs)
+
+   > Content for coder.com/blog. The [Coder Blog](https://coder.com/blog) itself.
+
 ## GitHub Tutorials
 
 - [First Contributions](https://github.com/firstcontributions/first-contributions)
