@@ -75,6 +75,19 @@ Dan Carroll's list of awesome projects on GitHub. Stuff that I find are awesome,
 
    > The [Python](https://www.python.org/) programming language.
 
+- [WinPython](https://winpython.github.io/)
+
+   >  A portable distribution of the Python programming language for Windows.  
+   >  
+
+- [WinPython tools](https://github.com/winpython/winpython)
+
+   > A free Python-distribution for Windows platform, including prebuilt packages for Scientific Python.  
+
+- [WinPython Portable 3.5.3.1 Dev Test 1](https://github.com/2wayne/WinPythonPortable)
+
+   > WinPython in PortbleApps.com Format: [(portableapps.com/node/56106)](https://portableapps.com/node/56106)
+
 ## Useful Utilities
 
 - [bat2exe](https://github.com/islamadel/bat2exe)
