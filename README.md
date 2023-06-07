@@ -1,6 +1,10 @@
 # Awesome-Projects
 Dan Carroll's list of awesome projects on GitHub. Stuff that I find are awesome, and possibly use myself.
 
+- [GitHub Codespaces Documentation](https://docs.github.com/en/codespaces)
+
+   > Create a codespace to start developing in a secure, configurable, and dedicated development environment that works how and where you want it to.
+
 ## GitHub Code-Server
 
 - [code-server](https://github.com/coder/code-server)
